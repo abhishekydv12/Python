@@ -20,7 +20,6 @@ hello()
 # def statement with parameters 
 
 
-
 # here name is the parameter -->(variables that have arguments assigned are called parameters) 
 def hello(name): 
     print('hello, ' + name)
@@ -226,3 +225,6 @@ spam()
 
 # exception handling  
 # for detecting the programs handling them and then continue to run (for saving the program from crash)
+
+
+spam() 

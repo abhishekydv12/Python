@@ -35,4 +35,3 @@ elif player == "scissors" :
 else : 
     print("something went wrong")
 
-
